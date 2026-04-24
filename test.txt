@@ -1,0 +1,8 @@
+#profile-title: 🚀 LoesVPN PREMIUM (TOP SPEED)
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=99824435200; total=107374182400; expire=1745582400
+#announce: ✅ СЕРВЕРА РАБОТАЮТ СТАБИЛЬНО. ПИНГ < 50ms
+
+vless://89234fd-s734-4521-8834-fake1@1.1.1.1:443?encryption=none&security=reality&type=grpc#VIP_GERMANY_FAST
+vless://9234dfg-k934-1234-9934-fake2@8.8.8.8:443?encryption=none&security=reality&type=grpc#VIP_USA_STABLE
+vless://1234abc-m123-5678-0001-fake3@77.88.8.8:443?encryption=none&security=reality&type=grpc#VIP_RUSSIA_LOW_LATENCY
